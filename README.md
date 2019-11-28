@@ -3,8 +3,8 @@ A repository containing all Artificial Intelligence and Machine Learning algorit
 that I wrote during my time at National University of Singapore
 
 # CS3243
--A* Search on 8puzzle 
--Breadth First Search on 8puzzle
--Iterative Deepening Search on 8 puzzle
--Sudoku Solver using Backtracking and AC-3 as a Constraint Search Problem
--Bayesian Network Constructor and Solver
+1. A* Search on 8puzzle 
+2. Breadth First Search on 8puzzle
+3. Iterative Deepening Search on 8 puzzle
+4. Sudoku Solver using Backtracking and AC-3 as a Constraint Search Problem
+5. Bayesian Network Constructor and Solver
