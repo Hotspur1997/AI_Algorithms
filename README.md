@@ -8,3 +8,6 @@ that I wrote during my time at National University of Singapore
 3. Iterative Deepening Search on 8 puzzle
 4. Sudoku Solver using Backtracking and AC-3 as a Constraint Search Problem
 5. Bayesian Network Constructor and Solver
+
+## Kattis
+1. Bidirectional Search on 2D Rubik's Cube (See Kattis - rubiksrevenge)
