@@ -1,5 +1,3 @@
-# Marc Phua Hsiao Meng A0183219A
-# Rishi Mahadevan A0184318B
 import sys
 import copy
 import collections
