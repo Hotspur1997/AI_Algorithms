@@ -11,3 +11,4 @@ that I wrote during my time at National University of Singapore
 
 ## Kattis
 1. Bidirectional Search on 2D Rubik's Cube (See Kattis - rubiksrevenge)
+2. Sudoku Solver using Backtracking and AC-3 in C++ (See Kattis - sudokunique)
